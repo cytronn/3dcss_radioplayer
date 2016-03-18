@@ -19,13 +19,6 @@ FEATURES :
 You can turn the radio on and off, change the channels, and make the radio spin. All at once.
 
 
-DIFFICULTIES : 
-
-
-The buttons could have been done better, but I lacked time and messed with the positionning. Though, the circular 3D was well done for the top corner of the receiver, even if I first thought it would be the most difficult thing to do.
-
-I had a hard time managin all the glitches, but things got better once I dispatched some "preserve-3d"
-
 
 RESSOURCES : 
 
@@ -37,4 +30,3 @@ https://developer.mozilla.org/fr/docs/Web/HTML/Utilisation_d'audio_et_video_en_H
 https://developer.mozilla.org/fr/docs/Web/HTML/Element/audio
 http://stackoverflow.com/questions/7462119/dynamically-replace-img-src-attribute-with-jquery
 
-VILLANI Arnaud H2 P2019
